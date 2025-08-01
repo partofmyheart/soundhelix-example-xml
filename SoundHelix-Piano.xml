@@ -22,6 +22,13 @@
 	  	<chordPattern>Am/6,Dm6/4,Gm/7,C/6,A6/2,Bm/4,F/5,B/5,Dm6/4,Gm/7,C/5,2,B/3</chordPattern>
 					<chordPattern>C/5,G/4,Dm6/6,D/4,C/0,E6/6,Em/4,Bm/6,C/0,Fm/2</chordPattern>
 					<chordPattern>G/4,Em/4,Bm/2,C/0,/Gm/4,Dm/6,E7/4,Bm/6,C/0,F/2</chordPattern>
+	    					<chordPattern>F/5,G/5,D/4,Bm/7,C/5,2,E/3</chordPattern>
+					<chordPattern>C/0,E7/6,Em/4,Bm/6,C/0,F/2</chordPattern>
+					<chordPattern>Gm/4,D/6,Em/4,D/6,C/0,Am/2</chordPattern>
+
+					<chordPattern>A6/2,Bm/4,F/5,B/5,Dm6/4,Gm/7,C/5,2,B/3</chordPattern>
+					<chordPattern>C/0,E6/6,Em/4,Bm/6,C/0,Fm/2</chordPattern>
+					<chordPattern>Gm/4,Dm/6,E7/4,Bm/6,C/0,F/2</chordPattern>
    
    
     <maxIterations>9000000</maxIterations>
