@@ -158,7 +158,7 @@
         <melodies>1,2,2,3</melodies>
         <minPitch>0</minPitch>
         <maxPitch>11</maxPitch>
-<pitchDistances>2,2,4,-1,2,-1,0,0,3,-1,3,-1,2,2</pitchDistances>
+<pitchDistances>2,2,4,-1,2,-1,0,0,3,-1,3,-1,2,2,4,-2</pitchDistances>
         <patternEngine class="RandomPatternEngine">
           <patternTicks>16</patternTicks>
           <patternString>
