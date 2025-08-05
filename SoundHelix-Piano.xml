@@ -239,8 +239,8 @@
             <patternTicks>
               <random list="32|64|128" />
             </patternTicks>
-            <minVelocity>1</minVelocity>
-            <maxVelocity>32767</maxVelocity>
+            <minVelocity>307</minVelocity>
+            <maxVelocity>2207</maxVelocity>
             <velocityExponent>2</velocityExponent>
             <pattern>
               <random list="0/1|0/1:32767,0/1:24000" />
