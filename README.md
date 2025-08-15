@@ -1,1 +1,1 @@
-okay after a bit of OCD i think ive got it
+its a bit annoying but i like it
